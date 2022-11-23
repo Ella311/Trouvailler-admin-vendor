@@ -53,3 +53,23 @@
 img{
     width: 100%;
 }
+.login-btn{
+    position: absolute;
+    top: 1rem;
+    right: 15rem;
+    display: flex;
+    background-color: #00ff9f;
+    padding:10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    font-weight: 500;
+    border-radius: 10000px;
+    height: 55px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;         
+    span{
+        font-size: 90%;
+    }
+}
