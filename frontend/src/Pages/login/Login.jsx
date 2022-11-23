@@ -107,9 +107,9 @@ const Login = () => {
         </p>
       </div>
 
-      <div className="bg-evergreen flex justify-center items-center">
+          {/*<div className="bg-evergreen flex justify-center items-center">
         <img src={require("../../Assets/profile.jpg")} alt="" className="" />
-      </div>
+      </div>*/}
     </div>
   );
 };
